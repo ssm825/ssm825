@@ -57,3 +57,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssm825&hide=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&icon_color=9bc3ff" />
   </a>
 </p>
+
+<br>
+<br>
+<div align=center>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssm825%2Fhit-counter&count_bg=%239BC3FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Git&edge_flat=false"/>
+  </a>
+</div>
+
+<br>
+<br>
